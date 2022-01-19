@@ -1,13 +1,14 @@
 {
   "name": "basic-multiplayer-game",
   "version": "1.0.0",
-  "description": "Basic Multiplayer Game",
+  "description": "Basic Multiplayer Game in Javascript",
   "main": "index.js",
+  "homepage": "https://basic-multiplayer-gamee.herokuapp.com/",
+  "author": "201flaviosilva",
   "scripts": {
     "dev": "nodemon index",
     "start": "node -r dotenv/config index"
   },
-  "author": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^11.0.0",
@@ -25,10 +26,9 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/201flaviosilva/Basic-Multiplayer-Game.git"
+    "url": "git+ssh://git@github.com/201flaviosilva/Basic-Multiplayer-Game.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/201flaviosilva/Basic-Multiplayer-Game/issues"
-  },
-  "homepage": "https://gitlab.com/201flaviosilva/Basic-Multiplayer-Game#readme"
+    "url": "https://github.com/201flaviosilva/Basic-Multiplayer-Game/issues"
+  }
 }
